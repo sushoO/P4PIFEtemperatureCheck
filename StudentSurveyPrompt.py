@@ -111,7 +111,3 @@ if student_responses:
     print(f"Response saved to {filename}")
 else:
     print("Failed to read student responses!")
-
-# /Users/susho/Downloads/journeysample.csv
-# /Users/susho/Downloads/sample.txt
-#python3 -u "/Users/susho/P4PIFEtemperatureCheck/StudentSurveyPrompt.py"
